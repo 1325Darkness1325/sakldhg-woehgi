@@ -1,0 +1,12 @@
+size(800,600);
+background(50,50,100);
+point(400,300);
+strokeWeight(8);
+line(0,0,400,300);
+fill(250,40,60);
+rect(400,300,200,200);
+strokeWeight(3);
+fill(255,255,0,120);
+ellipseMode(CORNER);
+noStroke();
+ellipse(400,300,100,100);
